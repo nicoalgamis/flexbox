@@ -94,6 +94,25 @@ Acomodar la sección 2
   align-items: center;
 }
 
+#section-3 .flex-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  /* .section .flex-container{
+    display: flex;
+    justify-content: space-between;
+  } */
+#section-3 .image-container{
+  display: flex;
+  flex-direction: column;
+}
+.text-container{
+  display: flex;
+  flex-direction: column;
+
+}
+
 /*
 Acomodar la sección 3
 1- deben ser 2 columnas
